@@ -1,0 +1,12 @@
+.background_black{
+    background-color: rgb(23, 23, 23, 0.7);
+    height: auto;
+    padding: 10px;
+    border-radius: 20px;
+    width: 60%;
+}
+.background_black_justify{
+ justify-content: center;
+ display: flex;
+ padding: 10px;
+}
